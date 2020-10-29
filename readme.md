@@ -3,3 +3,5 @@
 no one ever reads readme.md file
 
 We're on develop branch
+
+Adding new feature
